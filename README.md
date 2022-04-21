@@ -34,7 +34,7 @@ in this course we build some models and optimizing methods from scratch in addit
 <i> 2. Dinosaur Island-Character-Level Language Modeling </i> <br>
 <i> 3. Improvise a Jazz Solo with an LSTM Network </i> <br>
 <i> 4. Operations on Word Vectors - Debiasing </i> <br>
-<i> 5. **Emojify** </i> <br>
+<i> 5. **Emojify**  text classification (disappointed,smile ,love,..) </i> <br>
 <i> 6. Neural Machine Translation </i> <br>
 <i> 7. Trigger Word Detection </i> <br>
 <i> 8. transformers-architecture-with-tensorflow </i> <br>
