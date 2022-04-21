@@ -1,5 +1,5 @@
 # MachineLearning
-in this course we build some models and optimizing methods from scratch in addition to real world application.  <br>
+in this course we build some models and optimizing methods from scratch in addition to real world application(bold text).  <br>
 ## documentation 
 1. lectures    (it's not my job)
 2. cheatsheets/visual_notes    (it's not my job)
@@ -23,11 +23,11 @@ in this course we build some models and optimizing methods from scratch in addit
 <i> 1. Convolutional Model, Step by Step </b> <br>
 <i> 2. Convolutional Neural Networks: Application ( **(happy/unhappy), multiclassification (hand signs) images** </b> <br>
 <i> 3. Residual Networks </i> <br>
-<i> 4.Transfer Learning with MobileNet ** alpaca /not alpaca image classification using transfer/pre-trained model ** </i> <br>
+<i> 4.Transfer Learning with MobileNet **alpaca /not alpaca image classification using transfer/pre-trained model** </i> <br>
 <i> 5. **Autonomous_driving_application_Car_detection** </i> <br>
-<i> 6. Image Segmentation with U-Net ** clustering different similar parts e.g. car,pedestrian,tram,...</i> <br>
+<i> 6. Image Segmentation with U-Net **clustering different similar parts e.g. car,pedestrian,tram,...**</i> <br>
 <i>   7. **Face Recognition** </i> <br>
-<i>   8. **Art Generation with Neural Style Transfer** merge two image to have art model (painting)</i> <br>
+<i>   8. **Art Generation with Neural Style Transfer  merge two image to have art model (painting)**</i> <br>
 
 5. <b>    Sequence Models  </b> <br>
 <i> 1. Building your Recurrent Neural Network - Step by Step </i> <br>
